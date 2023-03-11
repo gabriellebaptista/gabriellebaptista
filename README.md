@@ -10,6 +10,7 @@ São Paulo<br>
 :blue_book: Enisno Médio Completo<br>
 :blue_book: Mecânico de Manutenção - SENAI "Roberto Simonsen"<br>
 :blue_book: Eletricista de Manutenção - SENAI "Roberto Simonsen"<br>
+:blue_book: Introdução à Elétrica Automotiva -  SENAI Mariano Ferraz
 <br>
 <br>
 Olá, sou a Gabrielle > Ensino Médio Completo > Técnica em Química > atualmente estou cursando CAI (_Curso Industrial de Aprendizagem_) - Eletricista de Manutenção, e anteriormente cursei CAI - Mecânico de Manutenção > Igressante em Mecânica de Processos de Produção FATEC _Fatec São Paulo - Faculdade de Tecnologia de São Paulo_)
