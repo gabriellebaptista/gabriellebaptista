@@ -1,10 +1,14 @@
 
 
 ## Gabrielle Batista
-:earth_africa:	 
+:earth_africa:Idade: 19 anos
+São Paulo
+:earth_africa:
+
+
 
 <a href = "gabrielledossantosb@gmail.com">
-<img src= "https://logosmarcas.net/wp-content/uploads/2020/11/Gmail-Logo.png" width=10%></a>
+<img src= "https://logosmarcas.net/wp-content/uploads/2020/11/Gmail-Logo.png" width=7%></a>
 
 
 
