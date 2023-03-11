@@ -1,9 +1,23 @@
 
 
 ## Gabrielle Batista
-_Sou a Gabrielle  
-tenho 19 anos e residente da cidade de São Paulo_
+:earth_africa:	 
 
-## Formação
- :speech_balloon: Ensino Médio Completo
- :speech_balloon:
+<a href = "gabrielledossantosb@gmail.com">
+<img src= "https://logosmarcas.net/wp-content/uploads/2020/11/Gmail-Logo.png" width=10%></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href = "https://blogdaboitempo.com.br">
+<img src= "https://boitempoeditorial.files.wordpress.com/2022/11/walterrodney.png" width=50%">
