@@ -17,7 +17,13 @@ Olá, sou a Gabrielle > Ensino Médio Completo > Técnica em Química > atualmen
 <br>
 <br>
 <br>
-*Hoobies e Interesses*
+⦿ *Hoobies e Interesses* ⦿<BR>
+ 
+Arte e Cultura AFRO <BR>
+ 
+ <a href = "https://https://www.cultura.sp.gov.br/">
+  <img src= " https://www.cultura.sp.gov.br/wp-content/uploads/2018/01/image1-9.jpg " width=30%"></a>
+
 <br>
 <br>
 <br>
